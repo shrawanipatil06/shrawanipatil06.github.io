@@ -1,9 +1,25 @@
-# Portfolio Site
+# Shrawani Patil — Marketing Portfolio
 
-Single-page portfolio, self-contained in `index.html` (all images embedded as base64 — no external asset files needed to render the page).
+**Live site:** [shrawanipatil06.github.io](https://shrawanipatil06.github.io)
 
-## Hosting on GitHub Pages (github.io)
+Brand and product management portfolio focused on the luxury and beauty sectors — positioning, campaign strategy, and go-to-market concepts.
 
-1. Push this folder's contents to a GitHub repo (see steps below).
-2. In the repo: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main / (root)**.
-3. GitHub Pages will pick up `index.html` automatically and publish the site at `https://<your-username>.github.io/<repo-name>/`.
+## Case studies & concepts
+
+- **Alo** — women's sportswear brand concept: positioning, personas, and campaign work
+- **Aurelia Homes** — real estate brand identity and digital experience
+- **Mariton** — hospitality brand concept and website
+- **NOIR** — luxury dessert brand concept and website
+- **Gucci** — metaverse strategy concept
+- **Jaguar** — rebrand and EV repositioning concept
+- **Rituals Cosmetics** — Asia expansion strategy
+
+## Background
+
+- MSc Marketing and Strategy, Warwick Business School
+- BBA in Retail & E-Commerce Management, Symbiosis Skills & Professional University, Pune
+
+## Contact
+
+- Email: shrawanipatil0611@gmail.com
+- LinkedIn: [linkedin.com/in/shrawani-patil](https://www.linkedin.com/in/shrawani-patil)
