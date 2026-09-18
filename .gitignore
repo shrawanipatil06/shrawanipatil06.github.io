@@ -1,0 +1,28 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Node (only relevant if you ever add tooling/build scripts)
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Temp / scratch files
+*.tmp
+*.bak
+*.swp
+.cache/
+
+# Raw base64 dumps and working exports (not needed for the live site —
+# index.html already has everything embedded)
+*.b64
+assets/
+alo_frames/
+
+# Local env files, just in case
+.env
+.env.local
